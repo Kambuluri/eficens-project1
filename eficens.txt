@@ -1,0 +1,5 @@
+devops training class
+1) what is devops
+2) what is cloud
+3) linux commands
+4) git
